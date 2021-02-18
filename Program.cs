@@ -4,6 +4,7 @@ namespace sales_system
 {
     class Program
     {
+        
         static void Main(string[] args)
         {
             //Console.WriteLine("Hello World!");
@@ -24,14 +25,13 @@ namespace sales_system
             Sale sale3 = new Sale(product3, seller3, "white desk");
 
 
+          
+            System.Console.WriteLine("Total Sales: " + (product1.getPrice() + product2.getPrice() + product3.getPrice()) );
 
         }
 
-     /*   public static int GetTotalSales()
-        {
-            return product1.GetTotalSales
-        }
-     */
+
+     
 
     }
 }
