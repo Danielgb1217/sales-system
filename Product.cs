@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace sales_system
+namespace sales_system_2
 {
     class Product
     {

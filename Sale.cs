@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace sales_system
+namespace sales_system_2
 {
     class Sale
     {
@@ -10,6 +10,7 @@ namespace sales_system
         private Product product;
         private Seller seller;
         private String comments;
+       
 
         public Sale(Product product, Seller seller, String comments)
         {

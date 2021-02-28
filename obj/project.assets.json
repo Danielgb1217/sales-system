@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Datos\\Ingenieria de Sistemas y Telecomunicaciones\\Semestre 4\\ProgramacionIII\\sales-system\\sales-system\\sales-system.csproj",
-      "projectName": "sales-system",
-      "projectPath": "D:\\Datos\\Ingenieria de Sistemas y Telecomunicaciones\\Semestre 4\\ProgramacionIII\\sales-system\\sales-system\\sales-system.csproj",
+      "projectUniqueName": "D:\\Datos\\Ingenieria de Sistemas y Telecomunicaciones\\Semestre 4\\ProgramacionIII\\sales-system-2\\sales-system-2\\sales-system-2.csproj",
+      "projectName": "sales-system-2",
+      "projectPath": "D:\\Datos\\Ingenieria de Sistemas y Telecomunicaciones\\Semestre 4\\ProgramacionIII\\sales-system-2\\sales-system-2\\sales-system-2.csproj",
       "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-      "outputPath": "D:\\Datos\\Ingenieria de Sistemas y Telecomunicaciones\\Semestre 4\\ProgramacionIII\\sales-system\\sales-system\\obj\\",
+      "outputPath": "D:\\Datos\\Ingenieria de Sistemas y Telecomunicaciones\\Semestre 4\\ProgramacionIII\\sales-system-2\\sales-system-2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",
